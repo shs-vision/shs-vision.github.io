@@ -4,20 +4,24 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm a Postdoctoral Research Fellow at [Robotic Cognition & Manipulation Lab](https://rilab.hanyang.ac.kr) in Hanyang University.
+I received the B.S. degree in 2015, the M.S. degree in 2017, and the Ph. D. in 2023 in electrical engineering from Hanyang University, Republic of Korea. 
+I was a Visiting Scholar at KU Leuven, Belgium in 2020. 
+Since 2023, I have been a Postdoctoral Research Fellow with the Research Institute of Engineering and Technology at Hanyang University, Republic of Korea. 
+My research interests focus on developing autonomous systems for advanced capabilities in complex environments including robotic noninvasive brain stimulation, object pose estimation, multi-sensor fusion and robotic grasping.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Robotics:** Visual servoing, Hand-eye calibration
+- **Computer Vision:** 3D computer vision, Sensor fusion, Deep learning
+- **Virtual Reality:** Immersive virtual reality
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2024]** We submitted a paper on object pose tracking in [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications).
+- **[Jul. 2024]** We submitted a paper on hand-eye calibration in [Robotics and Autonomous Systems](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems).
+- **[May 2024]** We are under review in [Virtual Reality](https://link.springer.com/journal/10055).
+- **[Apr. 2024]** Our paper about head pose estimation is accepted to [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications).
+- **[Aug. 2023]** Our paper about robotic TMS is accepted to [Scientific Reports](https://www.nature.com/srep/).
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}

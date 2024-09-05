@@ -1,22 +1,63 @@
 main:
-
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+  - title: "Real-time 6DoF full-range markerless head pose estimation"
+    authors: Redhwan Algabri, <strong>Hyunsoo Shin</strong>, Sungon Lee 
+    conference_short: EXPERT SYST APPL
+    conference: Expert Systems with Applications, 2024.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0957417423027951
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    image: ./assets/img/hpe_2024.gif
+    notes: 
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "Robotic transcranial magnetic stimulation in the treatment of depression: a pilot study"
+    authors: <strong>Hyunsoo Shin</strong> et al.
+    conference_short: Sci. Rep.
+    conference: Scientific Reports, 2023.
+    pdf: https://www.nature.com/articles/s41598-023-41044-1
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/compensation_2022.gif
+    notes: 
+
+  - title: "A phased array ultrasound system with a robotic arm for neuromodulation"
+    authors: Jongbum Seo, <strong>Hyunsoo Shin</strong>, Sungtaek Cho, Sungon Lee, Wooseok Ryu, Su-Cheol Han, Goo Hwa Kang
+    conference_short: MED ENG PHYS
+    conference: Medical Engineering & Physics, 2023.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S1350453323000784
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/BSS2023.png
+    
+    
+  - title: "Development of a wide area 3D scanning system with a rotating line laser"
+    authors: Jaeho Lee, <strong>Hyunsoo Shin</strong>, Sungon Lee
+    conference_short: Sensors
+    conference: Sensors MDPI, 2020.
+    pdf: https://www.mdpi.com/1424-8220/21/11/3885
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/sensors2020.png
+    
+    
+  - title: "Preliminary results on increased situational awareness for inland vessels using onboard lidar"
+    authors: Senne Van Baelen, <strong>Hyunsoo Shin</strong>, Gerben Peeters, Muhammad Raheel Afzal, Gökay Yayla, Peter Slaets
+    conference_short: Global OCEANS
+    conference: "Global Oceans 2020: Singapore–US Gulf Coast"
+    pdf: https://ieeexplore.ieee.org/abstract/document/9606960
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/shoreline.png
+    
+  - title: "Development of a spherical positioning robot and neuro-navigation system for precise and repetitive non-invasive brain stimulation"
+    authors: <strong>Hyunsoo Shin</strong>, Wooseok Ryu, Sungtaek Cho, Woosung Yang, Sungon Lee
+    conference_short: Appl. Sci.
+    conference: Applied Sciences MDPI, 2019.
+    pdf: https://www.mdpi.com/2076-3417/9/21/4561
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/BSS.png
+    
+    
+  - title: "Integration of deep learning-based object recognition and robot manipulator for grasping objects"
+    authors: <strong>Hyunsoo Shin</strong>, Hyunho Hwang, Hyunseok Yoon, Sungon Lee
+    conference_short: UR
+    conference: International Conference on Ubiquitous Robots <strong>(UR)</strong>, 2019.
+    pdf: https://ieeexplore.ieee.org/abstract/document/8768650
+    bibtex: ./assets/bib/shin2019integ.bib
+    notes: Oral Presentation
+    image: ./assets/img/bin_2018.gif
