@@ -7,7 +7,15 @@ main:
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/hpe_2024.gif
     notes: 
-
+  - title: "Segmentation-Based Depth Map Adjustment for Improved Grasping Pose Detection"
+    authors: <strong>Hyunsoo Shin</strong>, Muhammad Raheel Afzal, Sungon Lee
+    conference_short: J. Korea Robot.Soc
+    conference: Journal of Korea Robotics Society, 2024.
+    pdf: https://doi.org/10.7746/jkros.2024.19.1.016
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/grasping.gif
+    notes:
+  
   - title: "Robotic transcranial magnetic stimulation in the treatment of depression: a pilot study"
     authors: <strong>Hyunsoo Shin</strong> et al.
     conference_short: Sci. Rep.
