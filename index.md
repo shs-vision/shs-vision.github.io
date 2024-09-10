@@ -12,9 +12,10 @@ My research interests focus on developing autonomous systems for advanced capabi
 
 ## Research Interests
 
-- **Robotics:** Visual servoing, Hand-eye calibration
-- **Computer Vision:** 3D computer vision, Sensor fusion, Deep learning
+- **Robotics:** Robotic grasping, Visual servoing, Hand-eye calibration
+- **Computer Vision:** 3D computer vision, Sensor fusion, Camera calibration, Deep learning
 - **Virtual Reality:** Immersive virtual reality
+- **Neuroscience:** Noninvasive brain stimulation, Proprioception
 
 ## News
 
