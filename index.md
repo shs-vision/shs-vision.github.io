@@ -19,9 +19,9 @@ My research interests focus on developing autonomous systems for advanced capabi
 
 ## News
 
+- **[Sep. 2024]** Our paper about the virtual hand illusion is accepted to [Virtual Reality](https://link.springer.com/journal/10055).
 - **[Aug. 2024]** We submitted a paper on object pose tracking in [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications).
 - **[Jul. 2024]** We submitted a paper on hand-eye calibration in [Robotics and Autonomous Systems](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems).
-- **[May 2024]** We are under review in [Virtual Reality](https://link.springer.com/journal/10055).
 - **[Apr. 2024]** Our paper about head pose estimation is accepted to [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications).
 - **[Aug. 2023]** Our paper about robotic TMS is accepted to [Scientific Reports](https://www.nature.com/srep/).
 
