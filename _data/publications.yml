@@ -1,4 +1,12 @@
 main:
+  - title: "Effect of vibrotactile feedback and perception induced by transcranial magnetic stimulation over the primary motor cortex in virtual hand illusion"
+    authors: <strong>Hyunsoo Shin</strong>, Jaeho Lee, Geunhu Lee, Jaeyoung Park, Sungon Lee 
+    conference_short: Virtual Real.
+    conference: Virtual Reality, 2024.
+    pdf: https://doi.org/10.1007/s10055-024-01052-6
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/vhi.gif
+    notes: 
   - title: "Real-time 6DoF full-range markerless head pose estimation"
     authors: Redhwan Algabri, <strong>Hyunsoo Shin</strong>, Sungon Lee 
     conference_short: EXPERT SYST APPL
