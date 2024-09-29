@@ -4,17 +4,19 @@ main:
     conference_short: Virtual Real.
     conference: Virtual Reality, 2024.
     pdf: https://doi.org/10.1007/s10055-024-01052-6
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: ./assets/bib/shin2024effect.bib
     image: ./assets/img/vhi.png
     notes: 
+    
   - title: "Real-time 6DoF full-range markerless head pose estimation"
     authors: Redhwan Algabri, <strong>Hyunsoo Shin</strong>, Sungon Lee 
     conference_short: EXPERT SYST APPL
     conference: Expert Systems with Applications, 2024.
     pdf: https://www.sciencedirect.com/science/article/pii/S0957417423027951
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: ./assets/bib/algabri2024real.bib
     image: ./assets/img/hpe_2024.gif
     notes: 
+    
   - title: "Segmentation-Based Depth Map Adjustment for Improved Grasping Pose Detection"
     authors: <strong>Hyunsoo Shin</strong>, Muhammad Raheel Afzal, Sungon Lee
     conference_short: J. Korea Robot.Soc
@@ -29,7 +31,7 @@ main:
     conference_short: Sci. Rep.
     conference: Scientific Reports, 2023.
     pdf: https://www.nature.com/articles/s41598-023-41044-1
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: ./assets/bib/shin2023robotic.bib
     image: ./assets/img/compensation_2022.gif
     notes: 
 
@@ -38,7 +40,7 @@ main:
     conference_short: MED ENG PHYS
     conference: Medical Engineering & Physics, 2023.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S1350453323000784
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./assets/bib/seo2023phased.bib
     image: ./assets/img/BSS2023.png
     
     
@@ -47,7 +49,7 @@ main:
     conference_short: Sensors
     conference: Sensors MDPI, 2020.
     pdf: https://www.mdpi.com/1424-8220/21/11/3885
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./assets/bib/lee2021development.bib
     image: ./assets/img/sensors2020.png
     
     
@@ -56,7 +58,7 @@ main:
     conference_short: Global OCEANS
     conference: "Global Oceans 2020: Singapore–US Gulf Coast"
     pdf: https://ieeexplore.ieee.org/abstract/document/9606960
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./assets/bib/van2020preliminary.bib
     notes: Oral Presentation
     image: ./assets/img/shoreline.png
     
@@ -65,7 +67,7 @@ main:
     conference_short: Appl. Sci.
     conference: Applied Sciences MDPI, 2019.
     pdf: https://www.mdpi.com/2076-3417/9/21/4561
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./assets/bib/shin2019dev.bib
     image: ./assets/img/BSS.png
     
     
