@@ -26,3 +26,13 @@ My research interests focus on developing autonomous systems for advanced capabi
 - **[Aug. 2023]** Our paper about robotic TMS is accepted to [Scientific Reports](https://www.nature.com/srep/).
 
 {% include_relative _includes/publications.md %}
+
+## Lectures
+Adjunct Lecturer, Hanyang University
+(May 2024 ~ Dec 2024)
+
+### 2024 Fall
+- ROB4009 Robot Programming ([link](https://github.com/normajeane-m/ROB4009))
+
+### 2024 Spring
+- ROB1001 Basic Introduction to Robotics
