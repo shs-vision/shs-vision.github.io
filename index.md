@@ -38,7 +38,7 @@ Adjunct Lecturer, Hanyang University
 (May 2024 ~ Feb 2025)
 
 ### 2025 Spring
-- ROB4009 Robot Programming ([link](https://github.com/normajeane-m/ROB4009))
+- ROB1001 Basic Introduction to Robotics
 
 ### 2024 Fall
 - ROB4009 Robot Programming ([link](https://github.com/normajeane-m/ROB4009))
