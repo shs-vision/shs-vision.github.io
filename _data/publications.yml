@@ -5,7 +5,7 @@ main:
     conference: Virtual Reality, 2024.
     pdf: https://doi.org/10.1007/s10055-024-01052-6
     bibtex: ./assets/bib/shin2024effect.bib
-    image: ./assets/img/vhi.png
+    image: ./assets/img/VHI_2024.gif
     notes: 
     
   - title: "Real-time 6DoF full-range markerless head pose estimation"
