@@ -20,10 +20,10 @@ My research interests focus on developing autonomous systems for advanced capabi
 
 ## News
 
-- **[Apr. 2025]** Our paper about head pose estimation is accepted to [Journal of King Saud University Computer and Information Sciences](https://link.springer.com/journal/44443).
+- **[Apr. 2025]** Our paper about head pose estimation is accepted to [Journal of King Saud University Computer and Information Sciences](https://link.springer.com/article/10.1007/s44443-025-00034-1).
+- **[Apr. 2025]** We submitted a paper on object pose tracking in [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639).
 - **[Feb. 2025]** Our paper on robotic grasping has been awarded the 2024 Outstanding Paper Award by [Journal of Korea Robotics Society](https://jkros.org).
 - **[Sep. 2024]** Our paper about the virtual hand illusion is accepted to [Virtual Reality](https://link.springer.com/journal/10055).
-- **[Aug. 2024]** We submitted a paper on object pose tracking in [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications).
 - **[Jul. 2024]** We submitted a paper on hand-eye calibration in [Robotics and Autonomous Systems](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems).
 - **[Apr. 2024]** Our paper about head pose estimation is accepted to [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications).
 - **[Aug. 2023]** Our paper about robotic TMS is accepted to [Scientific Reports](https://www.nature.com/srep/).
