@@ -1,6 +1,6 @@
 main:
 
-    - title: "ICP Enhancement Algorithm for 6D Pose Tracking of Household Objects"
+  - title: "ICP Enhancement Algorithm for 6D Pose Tracking of Household Objects"
     authors: H Hwang, <strong>H Shin</strong>, JH Bae & S Lee
     conference_short: IEEE Access
     conference: IEEE Access, 2025.
