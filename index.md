@@ -33,10 +33,10 @@ My research interests focus on developing autonomous systems for advanced capabi
 ## Lectures
 
 Research Assistant Professor, Hanyang University
-(May 2025 ~ )
+(Mar 2025 ~ )
 
-Adjunct Lecturer, Hanyang University
-(May 2024 ~ Feb 2025)
+### 2025 Fall
+- ROB4009 Robot Programming ([link](https://github.com/normajeane-m/ROB4009))
 
 ### 2025 Spring
 - ROB1001 Basic Introduction to Robotics ([link](https://github.com/normajeane-m/ROB1001))
