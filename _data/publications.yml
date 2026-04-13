@@ -1,5 +1,23 @@
 main:
 
+  - title: "Design of a Passive Finger-Tip Changer for Modular Robotic Manipulation"
+    authors: Geunhu Lee, <strong>Hyunsoo Shin</strong>, Ji-Hun Bae & Sungon Lee
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters, 2026.
+    pdf: https://ieeexplore.ieee.org/document/11478076/media#media
+    bibtex: ./assets/bib/hwang2025icp.bib
+    image: ./assets/img/tipchanger.gif
+    notes:
+    
+  - title: "Real-time in-hand 6-DoF object pose estimation based on tactile sensing"
+    authors: <strong>Hyunsoo Shin</strong>, Dohyun Kim, Jongmin Kim, Ji-Hun Bae & Sungon Lee
+    conference_short: KSMTE
+    conference: The Korean Society of Manufacturing Technology Engineers, 2025.
+    pdf: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12307451
+    bibtex: ./assets/bib/hwang2025icp.bib
+    image: ./assets/img/tacpose.gif
+    notes:
+    
   - title: "ICP Enhancement Algorithm for 6D Pose Tracking of Household Objects"
     authors: Hyunho Hwang, <strong>Hyunsoo Shin</strong>, Ji-Hun Bae & Sungon Lee
     conference_short: IEEE Access
