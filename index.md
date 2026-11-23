@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Research Assistant Professor at the Research Institute of AI Convergence, Hanyang University, and a member of the Robotic Cognition & Manipulation Lab where I work with Prof. Sungon Lee and Prof. Ji-Hun Bae  ([Robotic Cognition & Manipulation Lab](https://rilab.hanyang.ac.kr)). I received my B.S., M.S., and Ph.D. degrees in Electrical Engineering from Hanyang University in 2015, 2017, and 2023, respectively. During my doctoral studies, I was a Visiting Scholar at KU Leuven, Belgium, in 2020. Following my Ph.D., I served as a BK Postdoctoral Research Fellow (2023–2024) and subsequently as a Research Assistant Professor (2025) at the Research Institute of Engineering and Technology. In March 2026, I joined the Research Institute of AI Convergence in my current role. My research interests focus on developing autonomous systems for advanced capabilities in complex environments, with specific expertise in robotic noninvasive brain stimulation, object pose estimation, multi-sensor fusion, and robotic grasping.
+I am a Senior Researcher at the [Capital Regional Research Center](https://www.kiro.re.kr/eng/abt/map4.asp), AI Humanoid Research Group, Korea Institute of Robotics and Technology Convergence (KIRO), Seoul, Republic of Korea. I received my B.S., M.S., and Ph.D. degrees in Electrical and Electronic Engineering from Hanyang University in 2015, 2017, and 2023, respectively. From 2019 to 2020, I was a Visiting Researcher with the Intelligent Mobile Platform Group at KU Leuven, Belgium. I then served as a BK Postdoctoral Research Fellow in 2023 and as a Research Assistant Professor from 2024 to 2026 at the Research Institute of Engineering and Technology and the Research Institute of AI Convergence, Hanyang University, and I continue to collaborate with Prof. Sungon Lee and Prof. Ji-Hun Bae at the [Robotic Cognition & Manipulation Lab](https://bmr.hanyang.ac.kr). My research interests include multi-sensor fusion, object pose estimation, and robotic grasping.
 
 ## Research Interests
 
@@ -15,6 +15,15 @@ I am a Research Assistant Professor at the Research Institute of AI Convergence,
 
 ## News
 
+<div class="news-list" markdown="1">
+
+- **[Nov. 2026]** Our paper on sparse-contact hypothesis generation for tactile 6D object pose estimation via correspondence graph optimization has been accepted to [IEEE Robotics and Automation Letters](https://doi.org/10.1109/LRA.2026.3754607).
+- **[Nov. 2026]** We submitted a paper on camera calibration refinement via null-motion-constrained optimization to [IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369).
+- **[Nov. 2026]** We submitted a paper on object-centric robot motion generation via semantic grounding and LLM agents to [Intelligent Service Robotics](https://link.springer.com/journal/11370).
+- **[Oct. 2026]** We submitted the final revision of our paper on well-conditioned poses for hand-eye calibration to [IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369).
+- **[Oct. 2026]** Our paper on initial pose estimation via Bayesian search space reduction has been accepted to [IEEE Transactions on Automation Science and Engineering](https://doi.org/10.1109/TASE.2026.3744364).
+- **[Sep. 2026]** Our paper on correspondence selection for robust 6-D pose estimation has been accepted to [IEEE Transactions on Automation Science and Engineering](https://doi.org/10.1109/TASE.2026.3707929).
+- **[Jul. 2026]** Our paper on VLM-based 6DoF 3D visual grounding has been accepted to [Journal of Korea Robotics Society](https://doi.org/10.7746/jkros.2026.21.3.333).
 - **[Apr. 2026]** Our paper on the passive finger-tip changer has been accepted to [IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/document/11478076).
 - **[Jun. 2025]** Our paper on 6D object pose tracking has been accepted to [IEEE Access](https://ieeexplore.ieee.org/abstract/document/11036096).
 - **[Apr. 2025]** Our paper about head pose estimation is accepted to [Journal of King Saud University Computer and Information Sciences](https://link.springer.com/journal/44443).
@@ -24,12 +33,17 @@ I am a Research Assistant Professor at the Research Institute of AI Convergence,
 - **[Apr. 2024]** Our paper about head pose estimation is accepted to [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications).
 - **[Aug. 2023]** Our paper about robotic TMS is accepted to [Scientific Reports](https://www.nature.com/srep/).
 
+</div>
+<button class="news-toggle" type="button" hidden>Show more</button>
+
+{% include_relative _includes/news-collapse.html %}
+
 {% include_relative _includes/publications.md %}
 
 ## Lectures
 
 Research Assistant Professor, Hanyang University
-(Mar 2025 ~ )
+(Mar 2025 ~ Aug 2026)
 
 ### 2026 Spring
 - ROB1001 Basic Introduction to Robotics ([link](https://github.com/normajeane-m/ROB1001))
